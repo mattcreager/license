@@ -1,0 +1,33 @@
+{
+  "name": "license",
+  "version": "0.1.0",
+  "description": "A license that can be customized & deployed in moments",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattcreager/license"
+  },
+  "keywords": [
+    "heroku",
+    "license",
+    "heroku-button"
+  ],
+  "author": {
+    "name": "Matt Creager",
+    "email": "creager@heroku.com",
+    "url": "https://github.com/mattcreager/recital"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattcreager/license/issues"
+  },
+  "homepage": "https://github.com/mattcreager/license",
+  "dependencies": {
+    "express": "^4.13.1",
+    "express-handlebars": "^2.0.1"
+  }
+}

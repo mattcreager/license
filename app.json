@@ -1,0 +1,11 @@
+{
+  "name": "License",
+  "description": "A license that can be customized & deployed in moments.",
+  "keywords": [
+    "heroku",
+    "license",
+    "heroku-button"
+  ],
+  "website": "https://github.com/mattcreager/license",
+  "repository": "https://github.com/mattcreager/license",
+}
