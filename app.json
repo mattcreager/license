@@ -7,8 +7,11 @@
     "heroku-button"
   ],
   "env": {
-    "COPYRIGHT_HOLDER": "John Smith"
+    "COPYRIGHT_HOLDER": {
+      "description": "The copyright holder of the MIT license you're preparing to deploy",
+      "value": "Luke Skywalker"
+    }
   },
   "website": "https://github.com/mattcreager/license",
-  "repository": "https://github.com/mattcreager/license",
+  "repository": "https://github.com/mattcreager/license"
 }
