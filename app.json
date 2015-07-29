@@ -6,6 +6,9 @@
     "license",
     "heroku-button"
   ],
+  "env": {
+    "COPYRIGHT_HOLDER": "John Smith"
+  },
   "website": "https://github.com/mattcreager/license",
   "repository": "https://github.com/mattcreager/license",
 }
